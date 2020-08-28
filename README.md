@@ -1,7 +1,7 @@
 # Arduino-LED-rubik-s-cube
 
 This is repository for my LED rubicks cube porject.
-
+3d modles and addional files can be found here: https://www.prusaprinters.org/prints/39223-led-rubiks-cube/files
 
 **Materials**
  - Neopixels
@@ -43,6 +43,7 @@ All models sliced in PrusaSlicer 2.2, printed on the Pusa MK3s in Hatchbox black
 5. Solder all the LED's on one panel together in series. Do the same on the other. Connect each panel to the Arduino and battery as shown in the diagram.
 
 **Programming**
+
 Arduino code for this project is cube.ino
 
 
