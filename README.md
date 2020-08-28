@@ -5,13 +5,12 @@ This is repository for my LED rubicks cube porject.
 
 **Materials**
  - Neopixels
-    - Adafruit
+    - I bought these from Adafruit
     - 54 needed
- - Arduino
-    - Amazon
+ - Arduino Nano
     - 1 needed
  - 1/4" x 1/4" x 1/8" N52 Magnets
-    - K&J Magnetics
+    - I bought these from K&J Magnetics
     - 4 needed (get some extra, they break easily)
 
 **Printed Parts**
